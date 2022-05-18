@@ -1,5 +1,9 @@
 Ta funcionando pelo visto
 
+<<<<<<< HEAD
 OK!
 
 Segundo teste de conflito
+=======
+OK! teste
+>>>>>>> 74909dd89baefd15327a640d7ac646ff8288f76e
